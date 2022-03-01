@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    width: 5%;
+    margin-left:10%;
+    margin-right: 1%;
+}
+
+.titulos{
+    font-weight: bolder;
+    text-align: center;
+}
+
+.shiva{
+    width: 70%;
+}
+
+.yoga{
+    width: 100%;
+    margin-top: 20%;
+}
