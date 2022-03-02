@@ -1,1 +1,1 @@
-# https://gabi-projetos.github.io/Site-Yoga/
+# https://gabi-projetos.github.io/Yoga/
